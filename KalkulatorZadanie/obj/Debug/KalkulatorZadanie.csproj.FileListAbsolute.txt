@@ -1,0 +1,8 @@
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\bin\Debug\KalkulatorZadanie.exe.config
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\bin\Debug\KalkulatorZadanie.exe
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\bin\Debug\KalkulatorZadanie.pdb
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\obj\Debug\KalkulatorZadanie.csproj.AssemblyReference.cache
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\obj\Debug\KalkulatorZadanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\obj\Debug\KalkulatorZadanie.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\obj\Debug\KalkulatorZadanie.exe
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\KalkulatorZadanie\obj\Debug\KalkulatorZadanie.pdb

@@ -1,0 +1,8 @@
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\bin\Debug\Miasta.exe.config
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\bin\Debug\Miasta.exe
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\bin\Debug\Miasta.pdb
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\obj\Debug\Miasta.csproj.AssemblyReference.cache
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\obj\Debug\Miasta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\obj\Debug\Miasta.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\obj\Debug\Miasta.exe
+C:\Users\Łukasz Gacek\source\repos\Projects\ZadaniaZajecia0\Miasta\obj\Debug\Miasta.pdb
